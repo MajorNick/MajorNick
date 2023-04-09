@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nika</h1>
 <h3 align="center">Passionate software developer creating elegant solutions with clean code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majornick&label=Profile%20views&color=0e75b6&style=flat" alt="majornick" /> </p>
 
 - 📫 How to reach me **nika.chigladze11@gmail.com**
 
