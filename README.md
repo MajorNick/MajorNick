@@ -2,7 +2,7 @@
 <h3 align="center">Passionate software developer creating elegant solutions with clean code</h3>
 
 
-- 📫 How to reach me **nika.chigladze11@gmail.com**
+- 📫 How to reach me **nika.chigla11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
