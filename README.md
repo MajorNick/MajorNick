@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nika</h1>
-<h3 align="center">Passionate software developer creating elegant solutions with clean code</h3>
 
 
 - 📫 How to reach me **nika.chigla11@gmail.com**
