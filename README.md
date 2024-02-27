@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majornick&show_icons=true&locale=en&layout=compact" alt="majornick" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majornick&show_icons=true&locale=en" alt="majornick" /></p>
+
